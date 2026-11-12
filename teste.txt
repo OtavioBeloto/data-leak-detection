@@ -1,0 +1,14 @@
+nome: Jorge
+email: Jorgesouza@gmail.com
+CPF: 123.456.789-10
+PASSWORD=admin123
+
+
+Contato: manuel@gmail.com
+CPF: 16546512115
+pwd:abc123
+
+Nome: Rochele
+CPF: 11748256565
+senha 12232
+
