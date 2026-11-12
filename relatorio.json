@@ -1,0 +1,37 @@
+[
+    {
+        "tipo": "email",
+        "linha": 2,
+        "valor": "Jorgesouza@gmail.com"
+    },
+    {
+        "tipo": "cpf",
+        "linha": 3,
+        "valor": "123.456.789-10"
+    },
+    {
+        "tipo": "senha",
+        "linha": 4,
+        "valor": "PASSWORD=admin123"
+    },
+    {
+        "tipo": "email",
+        "linha": 7,
+        "valor": "manuel@gmail.com"
+    },
+    {
+        "tipo": "cpf",
+        "linha": 8,
+        "valor": "16546512115"
+    },
+    {
+        "tipo": "senha",
+        "linha": 9,
+        "valor": "pwd:abc123"
+    },
+    {
+        "tipo": "cpf",
+        "linha": 12,
+        "valor": "11748256565"
+    }
+]
