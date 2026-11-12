@@ -23,7 +23,7 @@ def main():
         print(f"Erro ao acessar arquivo: {erro}")
 
     if messagebox.askyesno("Salvar Relatório", "Deseja salvar o relatório em JSON?"):
-        caminho_relatorio = filedialog.asksaveasfilename(title="Salvar Relatório", defaultextension=".json", filetypes=[("JSON Files", "*.json")], initialdir="relatorioJson")
+        caminho_relatorio = filedialog.asksaveasfilename(title="Salvar Relatório", defaultextension=".json", filetypes=[("JSON Files", "*.json")], initialfile="relatorio.json")
         if caminho_relatorio:
             try:
                 salvar_relatorio_json(resultados, caminho_relatorio)
