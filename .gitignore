@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Arquivos de ambiente
+.env
+
+# Relatórios gerados
+reports/*
+!reports/.gitkeep
