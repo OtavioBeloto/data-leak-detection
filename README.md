@@ -35,18 +35,22 @@ Instale as dependências:
 
 
 EXECUTAR SCANNER (Selecione um arquivo TXT para iniciar a análise.)
+    
     python main.py
     
 
 EXECUTAR API
 
 - iniciar servidor
+    
     python -m uvicorn api:app --reload
 
 - Acesse a documentação interativa:
+    
     http://127.0.0.1:8000/docs
 
 EXECUTANDO OS TESTES (Execute na raiz do projeto)
+    
     python -m pytest testes/ -v
 
 OBJETIVO
